@@ -18,3 +18,11 @@ body {
   height: 80px;
   width: 200px;
 }
+
+.btn {
+  margin-left: 5px;
+}
+
+.sortBtn {
+  margin-right: 20px;
+}
