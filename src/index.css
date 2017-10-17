@@ -5,8 +5,9 @@ body {
 }
 
 .jumbotron {
-  background: linear-gradient(to right, red, yellow);
+  background: linear-gradient(to right, #27ae60, #8e44ad);
   border-radius: 0px!important;
+  margin-top: -20px;
 }
 
 .searchForm {
@@ -25,4 +26,9 @@ body {
 
 .sortBtn {
   margin-right: 20px;
+}
+
+.active {
+  background-color: #27ae60;
+  padding: 18px 10px 18px 10px;
 }
